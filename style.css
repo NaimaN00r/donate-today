@@ -67,6 +67,7 @@ font-size: 28px;
   .reverse-img{
     margin-left: 73px;
   }
+
   .wrapper
 {
   display: flex;
@@ -88,7 +89,10 @@ font-size: 28px;
   margin-left: 10px;
   margin-top: 15px;
   padding-left: 7px;
-  
+}
+.wrapper-div:hover{
+    color: #e00833;
+    background-color: #f1b9b9;
 }
 .donate-planing-container{
     display: flex;
